@@ -1,6 +1,6 @@
-<p align="center">
+
 [![minseokey's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokey)](https://github.com/minseokey/github-readme-stats)
-<p>
+
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms990427&cache=c">
 </p>
