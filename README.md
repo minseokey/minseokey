@@ -52,6 +52,7 @@
  
  
 <h3 align="center">Contact me</h3>
-<p align="center">
-  📧 lms990427@kookmin.ac.kr
- </p>
+### Contact
++ lms990427@kookmin.ac.kr
+
+ 
