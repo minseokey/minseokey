@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=minseokey%20GitHub&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=minseokey's%20GitHub&fontSize=40&rotate=13&fontAlign=70&fontAlignY=40)
 
 
 [![minseokey's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokey)](https://github.com/minseokey/github-readme-stats)
