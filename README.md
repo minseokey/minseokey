@@ -1,7 +1,7 @@
 [![minseokey's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokey)](https://github.com/minseokey/github-readme-stats)
 ### Solved.ac Tier
 <p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minseokey&cache=c">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms990427&cache=c">
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
