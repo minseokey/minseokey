@@ -52,7 +52,6 @@
  
  
 <h3 align="center">Contact me</h3>
-### Contact
-+ lms990427@kookmin.ac.kr
+<p align="center"><a href="mailto:lms990427@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=lms990427@kookmin.ac.kr"/></a</p>
 
  
