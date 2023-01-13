@@ -6,7 +6,7 @@
 <p align ="center"> :penguin: 백엔드 개발자를 꿈꾸는 새내기 개발자입니다! :penguin:<p>
   
 
-[![minseokey's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokey&hide_border=true)](https://github.com/minseokey/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokey&layout=compact&hide_border=true)](https://github.com/minseokey) |
+[![minseokey's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokey&hide_border=true&theme=graywhite)](https://github.com/minseokey/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokey&layout=compact&hide_border=true)](https://github.com/minseokey) |
 | ------------- | ------------- |
 
 <br>
