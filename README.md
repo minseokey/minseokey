@@ -53,6 +53,6 @@
 <h3 align="center">Contact me</h3>
 
 <p align="center">
-  <a href="mailto:lms990427@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=lms990427@kookmin.ac.kr"/> <br> 📧 lms990427@kookmin.ac.kr </a>
+  <a href="mailto:lms990427@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=lms990427@kookmin.ac.kr"/></a>
 </p>
 
