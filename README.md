@@ -15,6 +15,7 @@
 <h3 align="center">:heavy_check_mark: Algorithm!</h3>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms990427&cache=c">
+  <img src="http://mazandi.herokuapp.com/api?handle=lms990427&theme=warm"/>
 </p>
 
 <br>
