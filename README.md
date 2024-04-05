@@ -19,9 +19,31 @@
 </p>
 
 <br>
+  
+  ## 🎓 Experience & Social Activity
+  
+  |소속 및 단체|활동 기간|내용|
+  |---|---|---|
+  |국민대학교| 2019.03~ 2025.02  | 국민대학교 소프트웨어학부 재학 |
+  |(주)Concat|2023.06 ~ 2023.08| 기존 룰베이스 기반 챗봇을 AI 를 이용하여 고도화 |
+  |(주)Lablup|2023.12 ~ 2024.02| "Backend.ai" 인턴 백엔드 개발자 |
+  |국민대학교 산학연계 학부연구생|2023.02 ~ 2023.11| 추천시스템 및 자연어 처리 연구 ((주)리얼셀러)|
+  |KOSS|2018.09 ~ 2022.12| 오픈소스 소프트웨어 학회 KOSS |
+  
+
+<br>
+  
+  ## 💻 Projects
+  
+  | 기간 | 내용 |
+  | --- | --- |
+  | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/minseokey/Bzero"> 'Bzero' </a> Backend 개발 |
+  | 2023.09 ~ 2023.12 | 대학생 익명 커뮤니티 <a href="https://github.com/minseokey/Backend"> 'UOUR' </a> Backend 개발 |
+  | 2024.03 ~ 2024.06 | 주관적인 문제 해결 서비스 <a href="https://github.com/minseokey/Backend"> '주문서' </a> Backend, CI,CD 개발|
+
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
 
 <br>
 <p align="center"> 📖  I'm interested in </p>
