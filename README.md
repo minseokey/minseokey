@@ -39,7 +39,7 @@
   | --- | --- |
   | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/minseokey/Bzero"> 'Bzero' </a> Backend 개발 |
   | 2023.09 ~ 2023.12 | 대학생 익명 커뮤니티 <a href="https://github.com/minseokey/Backend"> 'UOUR' </a> Backend 개발 |
-  | 2024.03 ~ 2024.06 | 주관적인 문제 해결 서비스 <a href="https://github.com/minseokey/Backend"> '주문서' </a> Backend, CI,CD 개발|
+  | 2024.03 ~ 2024.06 | 주관적인 문제 해결 서비스 <a href="https://github.com/minseokey/JUMUNSEO"> '주문서' </a> Backend, CI,CD 개발|
 
 <br>
 
