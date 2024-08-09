@@ -40,7 +40,17 @@
   | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 플랫폼 서비스 <a href="https://github.com/minseokey/Bzero"> 'Bzero' </a> Backend 개발 |
   | 2023.09 ~ 2023.12 | 대학생 익명 커뮤니티 <a href="https://github.com/minseokey/Backend"> 'UOUR' </a> Backend 개발 |
   | 2024.03 ~ 2024.06 | 주관적인 문제 해결 서비스 <a href="https://github.com/minseokey/JUMUNSEO"> '주문서' </a> Backend, CI/CD 개발|
-  | 2024.06 ~         | 부산 여행 도우미 "BTS" (Busan-Trip-Supporter) Backend, CI/CD 개발|
+  | 2024.06 ~         | 부산 여행 도우미 'BTS' (Busan-Trip-Supporter) Backend, CI/CD 개발|
+  | 2024.09 ~         | 간편한 ERD툴 'FlowERD" Backend, CI/CD 개발|
+
+<br>
+
+  ## 🪪 Certification
+  
+  | 취득일 | 이름 | 발급처|
+  | --- | --- | --- |
+  | 2022.06| SQLD| 한국데이터진흥원|
+  
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
