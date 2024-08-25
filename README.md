@@ -52,7 +52,6 @@
   | --- | --- | --- |
   | 2022.06| SQLD| 한국데이터진흥원|
   | |정보처리기사|한국산업인력공단|
-  | |AWS Solutions Architect - Associate|AWS|
   
 <br>
 
