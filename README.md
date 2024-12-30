@@ -42,7 +42,7 @@
   | 2023.09 ~ 2023.12 | 대학생 익명 커뮤니티 <a href="https://github.com/UOUR-project"> 'UOUR' </a> Backend 개발 |
   | 2024.03 ~ 2024.06 | 주관적인 문제 해결 서비스 <a href=https://github.com/kookmin-sw/capstone-2024-19> '주문서' </a> Backend, CI/CD 개발|
   | 2024.06 ~ 2024.10 | 부산 여행 도우미 <a href="https://github.com/BTS-Busan-Trip-Supporter">'BTS'</a> (Busan-Trip-Supporter) Backend, CI/CD 개발|
-  | 2024.09 ~         | 간편한 ERD툴 <a href="https://github.com/KMU-FlowERD"> 'FlowERD' </a> Backend, CI/CD 개발|
+  | 2024.09 ~ 2024.12 | 간편한 ERD툴 <a href="https://github.com/KMU-FlowERD"> 'FlowERD' </a> Backend, CI/CD 개발|
 
 <br>
 
