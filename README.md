@@ -31,6 +31,8 @@
   |(주)Lablup 인턴|2023.12 ~ 2024.02| "Backend.ai" 인턴 백엔드 개발자 |
   |라이나 손해보험 인턴|2024.09 ~ 2024.12| IT Application (IFRS17팀) 개발자 |
   |Depromeet|2025.01 ~ 2025.04| 개발 연합 동아리 디프만 서버파트 |
+  |Depromeet|2025.01 ~ 2025.04| 개발 연합 동아리 디프만 16기 대상, 인기상 |
+
   
 
 <br>
@@ -44,6 +46,7 @@
   | 2024.03 ~ 2024.06 | 주관적인 문제 해결 서비스 <a href=https://github.com/kookmin-sw/capstone-2024-19> '주문서' </a> Backend, CI/CD 개발|
   | 2024.06 ~ 2024.10 | 부산 여행 도우미 <a href="https://github.com/BTS-Busan-Trip-Supporter">'BTS'</a> (Busan-Trip-Supporter) Backend, CI/CD 개발|
   | 2024.09 ~ 2024.12 | 간편한 ERD툴 <a href="https://github.com/KMU-FlowERD"> 'FlowERD' </a> Backend, CI/CD 개발|
+  | 2025.01 ~ 2025.04 | 약속장소 추천 서비스 <a href="https://github.com/depromeet/kok-server"> 'KOK' </a> Backend, CI/CD 개발|
 
 <br>
 
