@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=minseokey's%20GitHub&fontSize=40&fontAlign=70&fontAlignY=50)
 
 <h2 align="center"> ✋  Hi there!</h2>
@@ -104,3 +105,5 @@
   <a href="mailto:lms990427@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=lms990427@kookmin.ac.kr"/></a>
 </p>
 
+
+-->
